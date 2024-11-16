@@ -4,6 +4,8 @@
 
 A Telegram bot for splitting expenses among friends or group members. This bot helps users calculate each person's share when they have collectively bought an item. The bot runs once to determine how much each person owes based on the total amount spent and the number of participants.
 
+[Telegram_Bot](https://t.me/Expense_Split_Bot)
+
 ## Features:
 
 - ➕ Log expenses with /add_expense.
